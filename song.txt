@@ -1,0 +1,3 @@
+Line 1 of my favorite song
+Line 2 of my favorite song
+Line 3 of my favorite song
